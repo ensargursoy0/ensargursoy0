@@ -1,170 +1,243 @@
-<div align="center">
+<!-- ════════════════════════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔥 ENSAR GÜRSOY - PROFESSIONAL GITHUB PROFILE 🔥 -->
+<!-- ════════════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:0a3d62,60:1e3799,100:58A6FF&height=250&section=header&text=Github%20Sayfama%20Ho%C5%9Fgeldin!&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=%F0%9F%91%8B%20Ben%20Ensar%20G%C3%BCrsoy%20%7C%20Web%20Developer%20%7C%20Erasmus%2B%20Alumni&descAlignY=62&descSize=17&descColor=a0c4ff&stroke=58A6FF&strokeWidth=2" />
+<!-- Header Banner - Dark Red/Black Theme -->
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:8B0000,50:DC143C,100:FF4500&height=300&section=header&text=ENSAR%20GÜRSOY&fontSize=80&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Computer%20Engineering%20Student%20%7C%20Software%20Developer&descAlignY=55&descAlign=50&descSize=20&stroke=000000&strokeWidth=2)
 
 </div>
 
-<div align="center">
+<!-- Social Badges - TOP POSITION -->
+<p align="center">
+  <a href="https://github.com/ensargursoy0">
+    <img src="https://img.shields.io/badge/GITHUB-ensargursoy0-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ensarg%C3%BCrsoy/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Ensar%20Gürsoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ensargursoy0&style=for-the-badge&color=DC143C&label=PROFILE+VIEWS"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=%F0%9F%9A%80+Web+Gelistirici+Adayi;%F0%9F%8C%8D+Erasmus%2B+Viyana+%7C+Microservice+GmbH;%F0%9F%8F%A2+Hayat+Kimya+Stajyeri+%2810+Ay%29;%F0%9F%8E%93+Azerbaycan+Teknik+Universitesi;%F0%9F%92%A1+Her+Gun+Biraz+Daha+Iyi!;%E2%9C%A8+Kod+Yaz%2C+Ogren%2C+Buyut!)](https://git.io/typing-svg)
+<!-- Animated Typing -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=%3E+Building+the+Future+with+Code...;%3E+Computer+Engineering+Student;%3E+Full+Stack+Developer+in+Progress;%3E+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  </a>
+</p>
 
-</div>
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
-<br/>
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> WHO AM I?
 
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ensar%20G%C3%BCrsoy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ensar-g%C3%BCrsoy-2a3a25321/)
-[![GitHub](https://img.shields.io/badge/GitHub-ensargursoy0-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ensargursoy0)
-[![Erasmus+](https://img.shields.io/badge/Erasmus%2B-Alumni%20%F0%9F%87%A6%F0%9F%87%B9-003DA5?style=for-the-badge&logo=europeanunion&logoColor=white)](https://www.linkedin.com/in/ensar-g%C3%BCrsoy-2a3a25321/)
-[![Location](https://img.shields.io/badge/%F0%9F%93%8D%20Kocaeli-T%C3%BCrkiye-E30A17?style=for-the-badge&logoColor=white)](https://github.com/ensargursoy0)
-[![Profile Views](https://komarev.com/ghpvc/?username=ensargursoy0&color=58A6FF&style=for-the-badge&label=ZİYARETÇİ)](https://github.com/ensargursoy0)
-
-</div>
-
----
-
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-## 🙋‍♂️ Ben Kimim?
-
-```yaml
-isim      : Ensar Gürsoy
-konum     : Kocaeli, Türkiye 📍
-eğitim    : Azerbaycan Teknik Üniversitesi 🎓
-odak      : Web Geliştirme & Yazılım 💻
-dil       : Türkçe 🇹🇷 | İngilizce 🇬🇧
-uluslararası: Erasmus+ Viyana 🇦🇹
-hedef     : Anlamlı projeler üretmek 🚀
+```js
+const ensarGursoy = {
+    name: "Ensar Gürsoy",
+    location: "Kocaeli, Türkiye 🇹🇷",
+    role: "Computer Engineering Student",
+    
+    education: {
+        current: "Azerbaijan Technical University",
+        program: "Computer Engineering Prep",
+        period: "2025 - 2026"
+    },
+    
+    experience: [
+        "🇦🇹 Erasmus+ Intern @ Microservice GmbH",
+        "🏢 Admin Intern @ Hayat Kimya"
+    ],
+    
+    skills: ["JavaScript", "Python", "HTML/CSS"],
+    
+    currentFocus: "Web Development & Software Engineering",
+    
+    goal: "Building a solid career in technology"
+};
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center">
 
----
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350"/>
 
-## 🌊 Animasyonlu Aktivite Grafiği
+</td>
+</tr>
+</table>
 
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<!-- TECH STACK -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> TECH ARSENAL
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,git,github,vscode,figma&theme=dark&perline=4" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<!-- EXPERIENCE & EDUCATION -->
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="40"> JOURNEY
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### EDUCATION
+  
+<img src="https://img.shields.io/badge/2025--2026-DC143C?style=flat-square&logoColor=white"/>
+<br>
+<strong>Azerbaijan Technical University</strong>
+<br>
+<sub>Computer Engineering Preparation</sub>
+<br><br>
+
+<img src="https://img.shields.io/badge/2022--2025-8B0000?style=flat-square&logoColor=white"/>
+<br>
+<strong>Vocational High School</strong>
+<br>
+<sub>Information Technology / Software Development</sub>
+
+</td>
+<td align="center" width="50%">
+
+### EXPERIENCE
+
+<img src="https://img.shields.io/badge/ERASMUS+-003399?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white"/>
+<br>
+<strong>Microservice GmbH</strong>
+<br>
+<sub>Vienna, Austria | Apr - May 2024</sub>
+<br>
+<sub>Web Development & Responsive Design</sub>
+<br><br>
+
+<img src="https://img.shields.io/badge/INTERN-32CD32?style=flat-square&logoColor=white"/>
+<br>
+<strong>Hayat Kimya</strong>
+<br>
+<sub>Kocaeli, Turkey | Sep 2024 - Jun 2025</sub>
+<br>
+<sub>Administrative Affairs</sub>
+
+</td>
+</tr>
+</table>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<!-- GITHUB STATS -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GITHUB STATS
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ensargursoy0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=DC143C&text_color=FFFFFF&ring_color=DC143C" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ensargursoy0&theme=radical&hide_border=true&background=0D1117&stroke=DC143C&ring=DC143C&fire=FF4500&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensargursoy0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=DC143C&text_color=FFFFFF" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ensargursoy0&bg_color=0D1117&color=DC143C&line=DC143C&point=FFFFFF&area=true&hide_border=true&area_color=8B0000" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ensargursoy0&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+</p>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<!-- CERTIFICATIONS -->
+## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="40"> CERTIFICATIONS
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ERASMUS+-Certificate_of_Participation-003399?style=for-the-badge"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/ERASMUS+-Certificate_of_Mobility-FFCC00?style=for-the-badge&labelColor=003399"/>
+</p>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<!-- QUOTE -->
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> PHILOSOPHY
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=My%20goal%20is%20to%20enhance%20my%20knowledge%20and%20skills%20in%20technology%2C%20participate%20in%20meaningful%20projects%2C%20and%20build%20a%20solid%20career.&author=Ensar%20Gürsoy" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<!-- Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+
+<!-- CONNECT -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> LET'S CONNECT
+
+<p align="center">
+  <a href="https://github.com/ensargursoy0">
+    <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ensarg%C3%BCrsoy/">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<!-- Languages -->
+<p align="center">
+  <img src="https://img.shields.io/badge/TURKISH-Native-DC143C?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ENGLISH-Intermediate-0A66C2?style=flat-square"/>
+</p>
+
+<!-- Footer -->
 <div align="center">
-
-[![Ensar's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ensargursoy0&bg_color=0d1117&color=58A6FF&line=1e3799&point=58A6FF&area=true&hide_border=true&area_color=1e3799)](https://github.com/ensargursoy0)
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:DC143C,100:FF4500&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70)
 
 </div>
 
----
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ensargursoy0/count.svg" alt="Visitor Count" />
+</p>
 
-## 🛠️ Teknoloji Yığını
-
-<div align="center">
-
-### 💻 Programlama Dilleri
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Araçlar & Teknolojiler
-<br/>
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Responsive Web](https://img.shields.io/badge/Responsive%20Web-Design-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-</div>
-
----
-
-## 💼 Deneyim
-
-<div align="center">
-
-| 🌍 Uluslararası Staj | 🏢 Uzun Dönem Staj |
-|:---:|:---:|
-| **Microservice GmbH** | **Hayat Kimya** |
-| Viyana, Avusturya 🇦🇹 | Kocaeli, Türkiye 🇹🇷 |
-| `Nisan – Mayıs 2024` | `Eylül 2024 – Haziran 2025` |
-| 🔧 Responsive web modernizasyonu | 📁 Belge yönetimi & arşivleme |
-| 💻 JavaScript frontend geliştirme | 📊 Excel ile envanter takibi |
-| 🌐 Uluslararası hibrit ekip | 🔄 Departmanlar arası koordinasyon |
-| *Erasmus+ Programı kapsamında* | *10 aylık deneyim* |
-
-</div>
-
----
-
-## 🎓 Eğitim & Sertifikalar
-
-<div align="center">
-
-| 🎓 Okul | 📚 Bölüm | 📅 Dönem |
-|---|---|---|
-| 🇦🇿 **Azerbaycan Teknik Üniversitesi** | Bilgisayar Mühendisliği Hazırlık | `2025 – 2026` |
-| 🏫 **Gölcük Şehit Volkan Tantürk MTAL** | Bilişim Tek. / Yazılım Geliştirme | `2022 – 2025` |
-
-<br/>
-
-[![Erasmus+ Participation](https://img.shields.io/badge/Erasmus%2B-Certificate%20of%20Participation-003DA5?style=for-the-badge&logo=europeanunion&logoColor=white)](https://www.linkedin.com/in/ensar-g%C3%BCrsoy-2a3a25321/)
-[![Erasmus+ Mobility](https://img.shields.io/badge/Erasmus%2B-Certificate%20of%20Mobility-0047AB?style=for-the-badge&logo=europeanunion&logoColor=white)](https://www.linkedin.com/in/ensar-g%C3%BCrsoy-2a3a25321/)
-
-</div>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=ensargursoy0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensargursoy0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ensargursoy0&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF6B35&ring=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ensargursoy0&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Katkı Yılanı
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ensargursoy0/ensargursoy0/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ensargursoy0/ensargursoy0/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ensargursoy0/ensargursoy0/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 İletişim
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ensar-g%C3%BCrsoy-2a3a25321/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ensargursoy0)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1e3799,100:0d1117&height=130&section=footer&text=Kod+Yaz+%E2%80%A2+%C3%96%C4%9Fren+%E2%80%A2+B%C3%BCy%C3%BC&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
-
-</div>
+<!-- Made with -->
+<p align="center">
+  <img src="https://img.shields.io/badge/MADE_WITH-PASSION-DC143C?style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/FROM-TÜRKİYE_🇹🇷-E30A17?style=for-the-badge"/>
+</p>
